@@ -12,7 +12,7 @@ import (
 	"net/http/httptest"
 
 	"github.com/gorilla/websocket"
-	"github.com/posener/wstest/pipe"
+	"github.com/iamtheddrman/wstest/pipe"
 )
 
 // NewDialer creates a wstest recorder to an http.Handler which accepts websocket upgrades.

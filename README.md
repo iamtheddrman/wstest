@@ -1,9 +1,8 @@
 # wstest
 
-[![Build Status](https://travis-ci.org/posener/wstest.svg?branch=master)](https://travis-ci.org/posener/wstest)
-[![codecov](https://codecov.io/gh/posener/wstest/branch/master/graph/badge.svg)](https://codecov.io/gh/posener/wstest)
-[![GoDoc](https://godoc.org/github.com/posener/wstest?status.svg)](http://godoc.org/github.com/posener/wstest)
-[![Go Report Card](https://goreportcard.com/badge/github.com/posener/wstest)](https://goreportcard.com/report/github.com/posener/wstest)
+[![codecov](https://codecov.io/gh/iamtheddrman/wstest/branch/master/graph/badge.svg)](https://codecov.io/gh/iamtheddrman/wstest)
+[![GoDoc](https://godoc.org/github.com/iamtheddrman/wstest?status.svg)](http://godoc.org/github.com/iamtheddrman/wstest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/iamtheddrman/wstest)](https://goreportcard.com/report/github.com/iamtheddrman/wstest)
 
 A websocket client for unit-testing a websocket server
 
@@ -22,7 +21,7 @@ with the given handler.
 
 ## Get
 
-`go get -u github.com/posener/wstest`
+`go get -u github.com/iamtheddrman/wstest`
 
 ## Examples
 

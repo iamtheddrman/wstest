@@ -11,7 +11,7 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"github.com/posener/wstest"
+	"github.com/iamtheddrman/wstest"
 )
 
 // TestClient demonstrate the usage of wstest package

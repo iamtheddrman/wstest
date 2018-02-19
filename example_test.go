@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/websocket"
-	"github.com/posener/wstest"
+	"github.com/iamtheddrman/wstest"
 )
 
 func ExampleNewDialer() {
